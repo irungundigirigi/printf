@@ -21,7 +21,9 @@ printf(" I am a %d years old\n", age);
 ```
 
 ##### Percent
-Every format specification starts with a percent sign and ends with a letter. The letters are chosen to have some nmenonic meaning.| Format    | Description                                |
+Every format specification starts with a percent sign and ends with a letter. The letters are chosen to have some nmenonic meaning.
+
+| Format    | Description                                |
 |-----------|--------------------------------------------|
 | \%c       | Print a single character                   |
 | \%d       | Print a decimal (base 10) number          |
