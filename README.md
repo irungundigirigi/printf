@@ -12,7 +12,7 @@ printf is the C language function to to formatted printing. In the most simple c
 | %         | Start a format specification |
 | \%        | Print a percent sign        |
 
-# Format specifications
+#### Format specifications
 printf becomes very powerful when printing the contents of a variable. For example formar specifier  %d  prints a number. This is done by adding another  argument to the printf statement shown here:
 ```
 int age;
@@ -20,7 +20,7 @@ age = 25;
 printf(" I am a %d years old\n", age);
 ```
 
-# Percent
+##### Percent
 Every format specification starts with a percent sign and ends with a letter. The letters are chosen to have some nmenonic meaning.| Format    | Description                                |
 |-----------|--------------------------------------------|
 | \%c       | Print a single character                   |
