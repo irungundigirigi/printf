@@ -20,7 +20,7 @@ age = 25;
 printf(" I am a %d years old\n", age);
 ```
 
-##### Percent
+#### Percent
 Every format specification starts with a percent sign and ends with a letter. The letters are chosen to have some nmenonic meaning.
 
 | Format    | Description                                |
